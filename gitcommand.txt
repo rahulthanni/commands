@@ -3,3 +3,4 @@ git status
 git addmore
 git -m
 git commit
+git remote
